@@ -7,10 +7,15 @@ In this data engineering project, the primary objective is to architect and depl
 ## Table of Contents
 
 Overview/Problem
+
 Rationale for the project
+
 Aim of the Project
+
 Data Description
+
 Tech Stack
+
 Project Scope
 
 ## Business Overview/Problem
